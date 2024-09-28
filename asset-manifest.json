@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlexNote/static/css/main.339434f3.css",
+    "main.js": "/FlexNote/static/js/main.41ed1640.js",
+    "index.html": "/FlexNote/index.html",
+    "main.339434f3.css.map": "/FlexNote/static/css/main.339434f3.css.map",
+    "main.41ed1640.js.map": "/FlexNote/static/js/main.41ed1640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.339434f3.css",
+    "static/js/main.41ed1640.js"
+  ]
+}

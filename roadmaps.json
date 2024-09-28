@@ -1,0 +1,144 @@
+[
+	{
+		"id": 1,
+		"isChecked": false,
+		"isSubChecked": false,
+		"name": "Щоденник",
+		"isMain": false,
+		"childrens": [
+			{
+				"id": 2,
+				"isChecked": false,
+				"isSubChecked": false,
+				"name": "Step 1: Preparing the Ingredients",
+				"isMain": false,
+				"childrens": [
+					{
+						"id": 3,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Peel and chop 2-3 medium beets, 1 large carrot, 2 medium potatoes, 1 onion, and 1/4 of a small cabbage.",
+						"childrens": []
+					},
+					{
+						"id": 4,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Use beef, pork, or chicken bones for the broth. Cook them in water for 1-2 hours until the meat is tender. Optionally, skim off the foam for a clearer broth.",
+						"childrens": []
+					}
+				]
+			},
+			{
+				"id": 5,
+				"isChecked": false,
+				"isSubChecked": false,
+				"isMain": false,
+				"name": "Step 2: Cooking the Borscht",
+				"childrens": [
+					{
+						"id": 6,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Cooking vegetables",
+						"childrens": [
+							{
+								"id": 7,
+								"isChecked": false,
+								"isSubChecked": false,
+								"isMain": false,
+								"name": "Sauté chopped beets and carrots with a tablespoon of oil for 5-7 minutes.",
+								"childrens": []
+							},
+							{
+								"id": 8,
+								"isChecked": false,
+								"isSubChecked": false,
+								"isMain": false,
+								"name": "Add 1-2 tablespoons of tomato paste and continue cooking for 3 more minutes.",
+								"childrens": []
+							}
+						]
+					},
+					{
+						"id": 9,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Once the broth is ready, add chopped potatoes and cook for 10-15 minutes until soft.",
+						"childrens": []
+					},
+					{
+						"id": 10,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Add the sautéed beets and carrots into the broth, stirring well to combine.",
+						"childrens": []
+					}
+				]
+			},
+			{
+				"id": 11,
+				"isChecked": false,
+				"isSubChecked": false,
+				"isMain": false,
+				"name": "Step 3: Finishing the Borscht",
+				"childrens": [
+					{
+						"id": 12,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Add the chopped cabbage to the broth and simmer for another 10 minutes until the cabbage is tender.",
+						"childrens": []
+					},
+					{
+						"id": 13,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Add salt, pepper, and a bay leaf to taste. Optionally, add 1-2 cloves of garlic for extra flavor.",
+						"childrens": []
+					},
+					{
+						"id": 14,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "To balance the flavors, add 1 tablespoon of vinegar or lemon juice and 1 teaspoon of sugar.",
+						"childrens": []
+					}
+				]
+			},
+			{
+				"id": 15,
+				"isChecked": false,
+				"isSubChecked": false,
+				"isMain": false,
+				"name": "Step 4: Serving the Borscht",
+				"childrens": [
+					{
+						"id": 16,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Serve the borscht hot with a spoonful of sour cream and freshly chopped dill or parsley on top.",
+						"childrens": []
+					},
+					{
+						"id": 17,
+						"isChecked": false,
+						"isSubChecked": false,
+						"isMain": false,
+						"name": "Borscht pairs well with garlic bread or traditional Ukrainian pampushki (small garlic buns).",
+						"childrens": []
+					}
+				]
+			}
+		]
+	}
+]
