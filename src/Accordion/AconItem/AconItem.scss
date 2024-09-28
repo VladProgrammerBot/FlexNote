@@ -1,0 +1,96 @@
+.acc-item {
+	border-radius: 20px;
+	width: fit-content;
+	margin-left: 20px;
+	
+	&:not(:last-child), >div:not(:last-child) {
+		margin-bottom: 10px;
+	}
+	
+	.AccItemTitle {
+		position: relative;
+		width: 250px;
+		display: flex;
+		justify-content: space-between;
+		background-color: rgb(250, 200, 200);
+		border-radius: 10px;
+		padding: 5px 10px;
+		transition: .3s;
+		
+		.mark {
+			position: absolute	;
+			width: 15px;
+			height: 15px;
+			border-bottom-left-radius: 15px;
+			border-top-right-radius: 10px;
+			background-color: rgb(255, 119, 119);
+			right: 0;
+			top: 0;
+			opacity: 0;
+			transition: .3s;
+
+			&.main {
+				opacity: 1;
+			}
+			&.mainWork {
+				background-color: red;
+			}
+		}
+		
+		.title {
+			padding: 5px 10px;
+		}
+		
+		.changeInput {
+			border-radius: 20px;
+			display: flex;
+			align-items: center;
+			width: 100%;
+			gap: 10px;
+		
+			input {
+				border: 0;
+				outline: none;
+				border-radius: 10px;
+				font-size: 15px;
+				padding: 5px;
+				flex: 1;
+			}
+			
+			.btn {
+				width: fit-content;
+				font-size: 25px;
+				transition: .3s;
+				cursor: pointer;
+		
+				&:hover {
+					color: green;
+				}
+			}
+		}
+
+		.d-flex {
+			display: flex;
+		}
+
+		.toggleBtn {
+			position: relative;
+			border-radius: 10px;
+			transition: .3s;
+			font-size: 25px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			cursor: pointer;
+			padding: 5px 0;
+	
+			&:hover {
+				color: green;
+			}
+	
+			&.delete:hover {
+				color: red;
+			}
+		}
+	}
+}

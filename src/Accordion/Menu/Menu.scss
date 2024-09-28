@@ -1,0 +1,24 @@
+.menu {
+	position: absolute;
+	top: 25px;
+	right: 0;
+	padding: 10px 0;
+	background-color: white;
+	border-radius: 10px;
+	font-size: 15px;
+	z-index: 10;
+	color: black;
+	box-shadow: 0 0 5px -2px;
+
+	>div {
+		padding: 10px 20px;
+		transition: .3s;
+		display: flex;
+		gap: 10px;
+		justify-content: space-between;
+
+		&:hover {
+			background-color: rgb(218, 218, 218);
+		}
+	}
+}
